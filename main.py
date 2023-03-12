@@ -4,7 +4,6 @@ from flask import Flask
 from flask import request
 from io import BytesIO
 
-
 app = Flask(__name__)
 
 @app.route("/")

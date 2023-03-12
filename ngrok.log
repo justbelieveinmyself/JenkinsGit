@@ -9,3 +9,6 @@ t=2023-03-12T08:16:14+0000 lvl=info msg="join connections" obj=join id=092c9bb84
 t=2023-03-12T08:20:29+0000 lvl=info msg="join connections" obj=join id=eef4b940b5ad l=127.0.0.1:8080 r=140.82.115.89:60127
 t=2023-03-12T08:24:05+0000 lvl=info msg="join connections" obj=join id=18434341c95c l=127.0.0.1:8080 r=140.82.115.82:32515
 t=2023-03-12T08:33:00+0000 lvl=info msg="join connections" obj=join id=124eeb2ef0f0 l=127.0.0.1:8080 r=140.82.115.145:24975
+t=2023-03-12T08:37:30+0000 lvl=warn msg="failed to open private leg" id=61e4fa36e75e privaddr=localhost:8080 err="dial tcp 127.0.0.1:8080: connect: connection refused"
+t=2023-03-12T08:44:34+0000 lvl=info msg="join connections" obj=join id=b268527e152e l=127.0.0.1:8080 r=46.148.181.178:60659
+t=2023-03-12T08:44:34+0000 lvl=info msg="join connections" obj=join id=9d4d59ce2870 l=127.0.0.1:8080 r=46.148.181.178:60659

@@ -1,15 +1,8 @@
-t=2023-03-12T07:06:39+0000 lvl=info msg="no configuration paths supplied"
-t=2023-03-12T07:06:39+0000 lvl=info msg="using configuration at default config path" path=/home/ghost/.config/ngrok/ngrok.yml
-t=2023-03-12T07:06:39+0000 lvl=info msg="open config file" path=/home/ghost/.config/ngrok/ngrok.yml err=nil
-t=2023-03-12T07:06:39+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
-t=2023-03-12T07:06:40+0000 lvl=info msg="tunnel session started" obj=tunnels.session
-t=2023-03-12T07:06:40+0000 lvl=info msg="client session established" obj=csess id=1ebf6ff4fbc3
-t=2023-03-12T07:06:40+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://730e-46-148-181-178.eu.ngrok.io
-t=2023-03-12T07:07:38+0000 lvl=info msg="join connections" obj=join id=6e290bd21a87 l=127.0.0.1:8080 r=46.148.181.178:55349
-t=2023-03-12T07:07:39+0000 lvl=info msg="join connections" obj=join id=254bab19872b l=127.0.0.1:8080 r=46.148.181.178:55349
-t=2023-03-12T07:10:06+0000 lvl=info msg="join connections" obj=join id=bdd6792194fb l=127.0.0.1:8080 r=46.148.181.178:55450
-t=2023-03-12T07:10:20+0000 lvl=info msg="join connections" obj=join id=5df37275b7a0 l=127.0.0.1:8080 r=46.148.181.178:55474
-t=2023-03-12T07:16:26+0000 lvl=info msg="join connections" obj=join id=1de5ff971eb0 l=127.0.0.1:8080 r=140.82.115.50:29809
-t=2023-03-12T07:18:55+0000 lvl=info msg="join connections" obj=join id=76c95713189f l=127.0.0.1:8080 r=140.82.115.147:25593
-t=2023-03-12T07:27:06+0000 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
-t=2023-03-12T07:27:06+0000 lvl=info msg="session closing" obj=tunnels.session err=nil
+t=2023-03-12T08:13:45+0000 lvl=info msg="no configuration paths supplied"
+t=2023-03-12T08:13:45+0000 lvl=info msg="using configuration at default config path" path=/home/ghost/.config/ngrok/ngrok.yml
+t=2023-03-12T08:13:45+0000 lvl=info msg="open config file" path=/home/ghost/.config/ngrok/ngrok.yml err=nil
+t=2023-03-12T08:13:45+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2023-03-12T08:13:46+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-03-12T08:13:46+0000 lvl=info msg="client session established" obj=csess id=23abea4927eb
+t=2023-03-12T08:13:46+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://e3eb-46-148-181-178.eu.ngrok.io
+t=2023-03-12T08:16:14+0000 lvl=info msg="join connections" obj=join id=092c9bb84dbc l=127.0.0.1:8080 r=140.82.115.43:19493

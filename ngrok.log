@@ -6,3 +6,4 @@ t=2023-03-12T08:13:46+0000 lvl=info msg="tunnel session started" obj=tunnels.ses
 t=2023-03-12T08:13:46+0000 lvl=info msg="client session established" obj=csess id=23abea4927eb
 t=2023-03-12T08:13:46+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://e3eb-46-148-181-178.eu.ngrok.io
 t=2023-03-12T08:16:14+0000 lvl=info msg="join connections" obj=join id=092c9bb84dbc l=127.0.0.1:8080 r=140.82.115.43:19493
+t=2023-03-12T08:20:29+0000 lvl=info msg="join connections" obj=join id=eef4b940b5ad l=127.0.0.1:8080 r=140.82.115.89:60127

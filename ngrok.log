@@ -1,16 +1,10 @@
-t=2023-03-12T08:13:45+0000 lvl=info msg="no configuration paths supplied"
-t=2023-03-12T08:13:45+0000 lvl=info msg="using configuration at default config path" path=/home/ghost/.config/ngrok/ngrok.yml
-t=2023-03-12T08:13:45+0000 lvl=info msg="open config file" path=/home/ghost/.config/ngrok/ngrok.yml err=nil
-t=2023-03-12T08:13:45+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
-t=2023-03-12T08:13:46+0000 lvl=info msg="tunnel session started" obj=tunnels.session
-t=2023-03-12T08:13:46+0000 lvl=info msg="client session established" obj=csess id=23abea4927eb
-t=2023-03-12T08:13:46+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://e3eb-46-148-181-178.eu.ngrok.io
-t=2023-03-12T08:16:14+0000 lvl=info msg="join connections" obj=join id=092c9bb84dbc l=127.0.0.1:8080 r=140.82.115.43:19493
-t=2023-03-12T08:20:29+0000 lvl=info msg="join connections" obj=join id=eef4b940b5ad l=127.0.0.1:8080 r=140.82.115.89:60127
-t=2023-03-12T08:24:05+0000 lvl=info msg="join connections" obj=join id=18434341c95c l=127.0.0.1:8080 r=140.82.115.82:32515
-t=2023-03-12T08:33:00+0000 lvl=info msg="join connections" obj=join id=124eeb2ef0f0 l=127.0.0.1:8080 r=140.82.115.145:24975
-t=2023-03-12T08:37:30+0000 lvl=warn msg="failed to open private leg" id=61e4fa36e75e privaddr=localhost:8080 err="dial tcp 127.0.0.1:8080: connect: connection refused"
-t=2023-03-12T08:44:34+0000 lvl=info msg="join connections" obj=join id=b268527e152e l=127.0.0.1:8080 r=46.148.181.178:60659
-t=2023-03-12T08:44:34+0000 lvl=info msg="join connections" obj=join id=9d4d59ce2870 l=127.0.0.1:8080 r=46.148.181.178:60659
-t=2023-03-12T08:45:24+0000 lvl=info msg="join connections" obj=join id=28cd9725a85a l=127.0.0.1:8080 r=140.82.115.251:35739
-t=2023-03-12T08:56:33+0000 lvl=info msg="join connections" obj=join id=2b6178da81c0 l=127.0.0.1:8080 r=140.82.115.110:44533
+t=2023-03-12T11:17:09+0000 lvl=info msg="no configuration paths supplied"
+t=2023-03-12T11:17:09+0000 lvl=info msg="using configuration at default config path" path=/home/ghost/.config/ngrok/ngrok.yml
+t=2023-03-12T11:17:09+0000 lvl=info msg="open config file" path=/home/ghost/.config/ngrok/ngrok.yml err=nil
+t=2023-03-12T11:17:09+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2023-03-12T11:17:10+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-03-12T11:17:10+0000 lvl=info msg="client session established" obj=csess id=5c0e412ec986
+t=2023-03-12T11:17:10+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://4db5-46-148-181-178.eu.ngrok.io
+t=2023-03-12T11:17:18+0000 lvl=info msg="join connections" obj=join id=8b50ae840d18 l=127.0.0.1:8080 r=46.148.181.178:60847
+t=2023-03-12T11:17:18+0000 lvl=info msg="join connections" obj=join id=cc45392978bf l=127.0.0.1:8080 r=46.148.181.178:60847
+t=2023-03-12T11:18:37+0000 lvl=info msg="join connections" obj=join id=74a081194ea3 l=127.0.0.1:8080 r=140.82.115.159:52639

@@ -10,3 +10,5 @@ t=2023-03-12T11:17:18+0000 lvl=info msg="join connections" obj=join id=cc4539297
 t=2023-03-12T11:18:37+0000 lvl=info msg="join connections" obj=join id=74a081194ea3 l=127.0.0.1:8080 r=140.82.115.159:52639
 t=2023-03-12T11:19:46+0000 lvl=info msg="join connections" obj=join id=f67e0e523d0d l=127.0.0.1:8080 r=140.82.115.54:45557
 t=2023-03-12T11:23:53+0000 lvl=info msg="join connections" obj=join id=49621b1fe96c l=127.0.0.1:8080 r=140.82.115.55:61737
+t=2023-03-12T11:26:50+0000 lvl=info msg="join connections" obj=join id=d8e8a818e587 l=127.0.0.1:8080 r=140.82.115.100:50495
+t=2023-03-12T11:40:41+0000 lvl=info msg="join connections" obj=join id=3db71542faf6 l=127.0.0.1:8080 r=51.159.210.137:49074
